@@ -1,5 +1,5 @@
-##About pandas
-####History of development
+## About pandas
+#### History of development
 In 2008, pandas development began at AQR Capital Management. By the end of 2009 it had been open sourced, and is actively supported today by a community of like-minded individuals around the world who contribute their valuable time and energy to help make open source pandas possible. Thank you to all of our contributors.
 
 Since 2015, pandas is a NumFOCUS sponsored project. This will help ensure the success of development of pandas as a world-class open-source project.
